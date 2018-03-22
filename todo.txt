@@ -1,0 +1,6 @@
+integrate exceptions
+multithread if supported by platform
+define inheritance and access specifiers
+use configuration file
+depriciate decrypt.py
+remove all changes made for decrypt.py

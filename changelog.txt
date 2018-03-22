@@ -1,0 +1,24 @@
+**folder scheme ddmmyyyy-"condition"-time**
+**started 14022018 **
+
+
+#14022018 
+	copied from precious projects
+#16022018-stable-0500
+	login.py PyQT gui
+	removed pathlib dependencies
+	modes for readFrom Tag
+	create dummy tag: dummyTag.py
+	Plugin does not pass file name for initialization anymore
+	other changes
+#16022018-stable-1200
+	Created standard NFCException class for handling Exceptions related to api
+	authentication mode (initial implementation)
+	return authentication status and uid in authentication mode
+	batch file for one click execution of login.py
+	decrypt.py PyQt Gui for demonstration of decryption
+	batch file for one click execution of decrypt.py
+	other changes
+#16022018-beta
+	Added excepton for I/O timeout
+	
